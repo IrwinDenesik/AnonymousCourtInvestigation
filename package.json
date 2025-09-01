@@ -1,0 +1,28 @@
+{
+  "name": "anonymous-court-investigation",
+  "version": "1.0.0",
+  "description": "Anonymous Court Investigation System - Secure, Private, and Transparent Judicial Investigations",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx http-server . -p 3000 -c-1 --cors",
+    "build": "echo 'No build step required for static site'",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "blockchain",
+    "ethereum",
+    "fhe",
+    "investigation",
+    "court",
+    "anonymous",
+    "privacy",
+    "judicial"
+  ],
+  "author": "Anonymous Court Investigation Team",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
