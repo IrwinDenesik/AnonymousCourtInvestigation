@@ -72,7 +72,7 @@ The **Anonymous Court Investigation System** revolutionizes judicial proceedings
 
 ### Video Demonstration
 A complete walkthrough demonstrating the system's functionality is available in the repository:
-- **Demo Video**: `Demo Video.mp4`
+- **Demo Video**: `AnonymousCourtInvestigation.mp4`
 
 This video showcases:
 - Wallet connection and authentication
@@ -83,7 +83,7 @@ This video showcases:
 - Dashboard statistics and role management
 
 ### On-Chain Transaction Evidence
-![Transaction Screenshot](Transaction Screenshot.png)
+![Transaction Screenshot](AnonymousCourtInvestigation.png)
 
 The screenshot demonstrates successful on-chain interactions, including:
 - Investigation creation transactions
